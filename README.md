@@ -27,3 +27,5 @@ Uruchom aplikację i zbadaj, jakie metody cyklu życia są wywoływane przy w
     On Start Method                   D  fired up
     On Resume Method                  D  fired up
  ```
+
+Wszystkie logi zapisane są w pliku [logs.txt](logs.txt).
