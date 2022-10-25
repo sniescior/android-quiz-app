@@ -1,0 +1,166 @@
+---------------------------- PROCESS STARTED (12471) for package com.awesome.quiz ----------------------------
+2022-10-25 12:59:10.987 12471-12471 Compatibil...geReporter com.awesome.quiz                     D  Compat change id reported: 171979766; UID 10159; state: ENABLED
+2022-10-25 12:59:11.006 12471-12471 ziparchive              com.awesome.quiz                     W  Unable to open '/data/app/~~_08ELvPJNhAHTCA7pOfgdQ==/com.awesome.quiz-dhOeWLKFMaBj9qRb3S0i4A==/base.dm': No such file or directory
+2022-10-25 12:59:11.006 12471-12471 ziparchive              com.awesome.quiz                     W  Unable to open '/data/app/~~_08ELvPJNhAHTCA7pOfgdQ==/com.awesome.quiz-dhOeWLKFMaBj9qRb3S0i4A==/base.dm': No such file or directory
+2022-10-25 12:59:11.107 12471-12471 GraphicsEnvironment     com.awesome.quiz                     V  ANGLE Developer option for 'com.awesome.quiz' set to: 'default'
+2022-10-25 12:59:11.108 12471-12471 GraphicsEnvironment     com.awesome.quiz                     V  ANGLE GameManagerService for com.awesome.quiz: false
+2022-10-25 12:59:11.108 12471-12471 GraphicsEnvironment     com.awesome.quiz                     V  Neither updatable production driver nor prerelease driver is supported.
+2022-10-25 12:59:11.116 12471-12471 NetworkSecurityConfig   com.awesome.quiz                     D  No Network Security Config specified, using platform default
+2022-10-25 12:59:11.119 12471-12471 NetworkSecurityConfig   com.awesome.quiz                     D  No Network Security Config specified, using platform default
+2022-10-25 12:59:11.157 12471-12494 libEGL                  com.awesome.quiz                     D  loaded /vendor/lib64/egl/libEGL_emulation.so
+2022-10-25 12:59:11.161 12471-12494 libEGL                  com.awesome.quiz                     D  loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+2022-10-25 12:59:11.170 12471-12494 libEGL                  com.awesome.quiz                     D  loaded /vendor/lib64/egl/libGLESv2_emulation.so
+2022-10-25 12:59:11.289 12471-12471 om.awesome.quiz         com.awesome.quiz                     W  Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (unsupported, reflection, allowed)
+2022-10-25 12:59:11.289 12471-12471 om.awesome.quiz         com.awesome.quiz                     W  Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)
+2022-10-25 12:59:11.291 12471-12471 Compatibil...geReporter com.awesome.quiz                     D  Compat change id reported: 210923482; UID 10159; state: DISABLED
+2022-10-25 12:59:11.291 12471-12471 Compatibil...geReporter com.awesome.quiz                     D  Compat change id reported: 37756858; UID 10159; state: ENABLED
+
+---> Po pierwszym uruchomieniu aplikacji --->
+
+2022-10-25 12:59:11.376 12471-12471 On Start Method         com.awesome.quiz                     D  fired up
+2022-10-25 12:59:11.378 12471-12471 On Resume Method        com.awesome.quiz                     D  fired up
+
+ <---
+
+2022-10-25 12:59:11.423 12471-12492 HostConnection          com.awesome.quiz                     D  createUnique: call
+2022-10-25 12:59:11.426 12471-12492 HostConnection          com.awesome.quiz                     D  HostConnection::get() New Host Connection established 0x70d00361c2d0, tid 12492
+2022-10-25 12:59:11.450 12471-12492 HostConnection          com.awesome.quiz                     D  HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_YUV_Cache ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_sync_buffer_data ANDROID_EMU_read_color_buffer_dma ANDROID_EMU_hwc_multi_configs GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0 
+2022-10-25 12:59:11.456 12471-12492 OpenGLRenderer          com.awesome.quiz                     W  Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+2022-10-25 12:59:11.456 12471-12492 OpenGLRenderer          com.awesome.quiz                     W  Failed to initialize 101010-2 format, error = EGL_SUCCESS
+2022-10-25 12:59:11.462 12471-12492 EGL_emulation           com.awesome.quiz                     D  eglCreateContext: 0x70d00361b490: maj 3 min 0 rcv 3
+2022-10-25 12:59:11.466 12471-12492 EGL_emulation           com.awesome.quiz                     D  eglMakeCurrent: 0x70d00361b490: ver 3 0 (tinfo 0x70d23417d080) (first time)
+2022-10-25 12:59:11.481 12471-12492 Gralloc4                com.awesome.quiz                     I  mapper 4.x is not supported
+2022-10-25 12:59:11.483 12471-12492 HostConnection          com.awesome.quiz                     D  createUnique: call
+2022-10-25 12:59:11.484 12471-12492 HostConnection          com.awesome.quiz                     D  HostConnection::get() New Host Connection established 0x70d00361a1d0, tid 12492
+2022-10-25 12:59:11.485 12471-12492 goldfish-address-space  com.awesome.quiz                     D  allocate: Ask for block of size 0x100
+2022-10-25 12:59:11.487 12471-12492 goldfish-address-space  com.awesome.quiz                     D  allocate: ioctl allocate returned offset 0x3efffe000 size 0x2000
+2022-10-25 12:59:11.493 12471-12492 Gralloc4                com.awesome.quiz                     W  allocator 4.x is not supported
+2022-10-25 12:59:11.516 12471-12492 HostConnection          com.awesome.quiz                     D  HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_YUV_Cache ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_sync_buffer_data ANDROID_EMU_read_color_buffer_dma ANDROID_EMU_hwc_multi_configs GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0 
+2022-10-25 12:59:11.620 12471-12492 Parcel                  com.awesome.quiz                     W  Expecting binder but got null!
+
+---> Po wciśnięciu przycisku Cofnij --->
+
+2022-10-25 13:02:34.590 12471-12471 On Pause Method         com.awesome.quiz                     D  fired up
+2022-10-25 13:02:34.671 12471-12492 EGL_emulation           com.awesome.quiz                     D  app_time_stats: avg=22554.66ms min=4.82ms max=202849.36ms count=9
+2022-10-25 13:02:35.160 12471-12471 On Stop Method          com.awesome.quiz                     D  fired up
+
+ <---
+
+---> Po ponownym uruchomieniu aplikacji --->
+
+2022-10-25 13:04:58.752 12471-12471 On Start Method         com.awesome.quiz                     D  fired up
+2022-10-25 13:04:58.756 12471-12471 On Resume Method        com.awesome.quiz                     D  fired up
+
+ <---
+
+---> Po wciśnięciu przycisku ekranu głównego Home --->
+
+2022-10-25 13:05:14.318 12471-12492 EGL_emulation           com.awesome.quiz                     D  app_time_stats: avg=1932.50ms min=10.57ms max=15299.63ms count=8
+2022-10-25 13:05:15.437 12471-12471 On Pause Method         com.awesome.quiz                     D  fired up
+2022-10-25 13:05:15.443 12471-12471 On Stop Method          com.awesome.quiz                     D  fired up
+
+ <---
+
+---> Po powrocie do aplikacji z listy ostatnio używanych aplikacji --->
+
+2022-10-25 13:06:04.945 12471-12471 On Start Method         com.awesome.quiz                     D  fired up
+2022-10-25 13:06:04.951 12471-12471 On Resume Method        com.awesome.quiz                     D  fired up
+
+ <---
+
+---> Logi powstałe po próbach oracania ekranu --->
+
+2022-10-25 13:09:14.107 13863-13884 EGL_emulation           com.awesome.quiz                     D  app_time_stats: avg=4166.85ms min=2.82ms max=37377.45ms count=9
+2022-10-25 13:09:26.934 13863-13863 On Pause Method         com.awesome.quiz                     D  fired up
+2022-10-25 13:09:26.944 13863-13863 On Stop Method          com.awesome.quiz                     D  fired up
+2022-10-25 13:09:26.955 13863-13863 On Destroy Method       com.awesome.quiz                     D  fired up
+2022-10-25 13:09:27.062 13863-13863 On Start Method         com.awesome.quiz                     D  fired up
+2022-10-25 13:09:27.063 13863-13863 On Resume Method        com.awesome.quiz                     D  fired up
+2022-10-25 13:09:27.167 13863-13884 Parcel                  com.awesome.quiz                     W  Expecting binder but got null!
+2022-10-25 13:09:30.260 13863-13863 On Pause Method         com.awesome.quiz                     D  fired up
+2022-10-25 13:09:30.262 13863-13863 On Stop Method          com.awesome.quiz                     D  fired up
+2022-10-25 13:09:30.262 13863-13863 On Destroy Method       com.awesome.quiz                     D  fired up
+2022-10-25 13:09:30.331 13863-13863 On Start Method         com.awesome.quiz                     D  fired up
+2022-10-25 13:09:30.331 13863-13863 On Resume Method        com.awesome.quiz                     D  fired up
+2022-10-25 13:09:30.386 13863-13884 Parcel                  com.awesome.quiz                     W  Expecting binder but got null!
+2022-10-25 13:09:31.866 13863-13863 AutofillManager         com.awesome.quiz                     D  Fill dialog is enabled:false, hints=[]
+2022-10-25 13:09:31.877 13863-13884 EGL_emulation           com.awesome.quiz                     D  app_time_stats: avg=74.97ms min=3.93ms max=1119.70ms count=19
+2022-10-25 13:09:40.148 13863-13863 On Pause Method         com.awesome.quiz                     D  fired up
+2022-10-25 13:09:40.150 13863-13863 On Stop Method          com.awesome.quiz                     D  fired up
+2022-10-25 13:09:40.158 13863-13863 On Destroy Method       com.awesome.quiz                     D  fired up
+2022-10-25 13:09:40.218 13863-13863 On Start Method         com.awesome.quiz                     D  fired up
+2022-10-25 13:09:40.220 13863-13863 On Resume Method        com.awesome.quiz                     D  fired up
+2022-10-25 13:09:40.275 13863-13884 Parcel                  com.awesome.quiz                     W  Expecting binder but got null!
+2022-10-25 13:09:44.468 13863-13863 On Pause Method         com.awesome.quiz                     D  fired up
+2022-10-25 13:09:44.474 13863-13863 On Stop Method          com.awesome.quiz                     D  fired up
+2022-10-25 13:09:44.475 13863-13863 On Destroy Method       com.awesome.quiz                     D  fired up
+2022-10-25 13:09:44.558 13863-13863 On Start Method         com.awesome.quiz                     D  fired up
+2022-10-25 13:09:44.559 13863-13863 On Resume Method        com.awesome.quiz                     D  fired up
+2022-10-25 13:09:44.618 13863-13884 Parcel                  com.awesome.quiz                     W  Expecting binder but got null!
+2022-10-25 13:09:44.669 13863-13871 om.awesome.quiz         com.awesome.quiz                     I  Compiler allocated 4160KB to compile void android.widget.TextView.<init>(android.content.Context, android.util.AttributeSet, int, int)
+2022-10-25 13:09:45.740 13863-13863 AutofillManager         com.awesome.quiz                     D  Fill dialog is enabled:false, hints=[]
+2022-10-25 13:09:45.761 13863-13884 EGL_emulation           com.awesome.quiz                     D  app_time_stats: avg=52.22ms min=1.61ms max=787.79ms count=19
+2022-10-25 13:09:53.399 13863-13863 On Pause Method         com.awesome.quiz                     D  fired up
+2022-10-25 13:09:53.413 13863-13863 On Stop Method          com.awesome.quiz                     D  fired up
+2022-10-25 13:09:53.421 13863-13863 On Destroy Method       com.awesome.quiz                     D  fired up
+2022-10-25 13:09:53.606 13863-13863 On Start Method         com.awesome.quiz                     D  fired up
+2022-10-25 13:09:53.608 13863-13863 On Resume Method        com.awesome.quiz                     D  fired up
+2022-10-25 13:09:53.752 13863-13884 Parcel                  com.awesome.quiz                     W  Expecting binder but got null!
+2022-10-25 13:09:55.615 13863-13863 AutofillManager         com.awesome.quiz                     D  Fill dialog is enabled:false, hints=[]
+2022-10-25 13:09:55.628 13863-13884 EGL_emulation           com.awesome.quiz                     D  app_time_stats: avg=96.68ms min=2.65ms max=1466.53ms count=18
+2022-10-25 13:09:58.451 13863-13863 On Pause Method         com.awesome.quiz                     D  fired up
+2022-10-25 13:09:58.455 13863-13863 On Stop Method          com.awesome.quiz                     D  fired up
+2022-10-25 13:09:58.456 13863-13863 On Destroy Method       com.awesome.quiz                     D  fired up
+2022-10-25 13:09:58.544 13863-13863 On Start Method         com.awesome.quiz                     D  fired up
+2022-10-25 13:09:58.545 13863-13863 On Resume Method        com.awesome.quiz                     D  fired up
+2022-10-25 13:09:58.603 13863-13884 Parcel                  com.awesome.quiz                     W  Expecting binder but got null!
+
+ <---
+
+---> Logi powstałe po próbach oracania ekranu po zaimplementowaniu metody onSaveInstanceState --->
+
+2022-10-25 13:17:16.739 14175-14175 ziparchive              com.awesome.quiz                     W  Unable to open '/data/data/com.awesome.quiz/code_cache/.overlay/base.apk/classes3.dm': No such file or directory
+2022-10-25 13:17:16.740 14175-14175 ziparchive              com.awesome.quiz                     W  Unable to open '/data/app/~~_08ELvPJNhAHTCA7pOfgdQ==/com.awesome.quiz-dhOeWLKFMaBj9qRb3S0i4A==/base.dm': No such file or directory
+2022-10-25 13:17:16.740 14175-14175 ziparchive              com.awesome.quiz                     W  Unable to open '/data/app/~~_08ELvPJNhAHTCA7pOfgdQ==/com.awesome.quiz-dhOeWLKFMaBj9qRb3S0i4A==/base.dm': No such file or directory
+2022-10-25 13:17:16.820 14175-14175 GraphicsEnvironment     com.awesome.quiz                     V  ANGLE Developer option for 'com.awesome.quiz' set to: 'default'
+2022-10-25 13:17:16.820 14175-14175 GraphicsEnvironment     com.awesome.quiz                     V  ANGLE GameManagerService for com.awesome.quiz: false
+2022-10-25 13:17:16.820 14175-14175 GraphicsEnvironment     com.awesome.quiz                     V  Neither updatable production driver nor prerelease driver is supported.
+2022-10-25 13:17:16.831 14175-14175 NetworkSecurityConfig   com.awesome.quiz                     D  No Network Security Config specified, using platform default
+2022-10-25 13:17:16.833 14175-14175 NetworkSecurityConfig   com.awesome.quiz                     D  No Network Security Config specified, using platform default
+2022-10-25 13:17:16.880 14175-14201 libEGL                  com.awesome.quiz                     D  loaded /vendor/lib64/egl/libEGL_emulation.so
+2022-10-25 13:17:16.883 14175-14201 libEGL                  com.awesome.quiz                     D  loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+2022-10-25 13:17:16.893 14175-14201 libEGL                  com.awesome.quiz                     D  loaded /vendor/lib64/egl/libGLESv2_emulation.so
+2022-10-25 13:17:17.000 14175-14175 om.awesome.quiz         com.awesome.quiz                     W  Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (unsupported, reflection, allowed)
+2022-10-25 13:17:17.001 14175-14175 om.awesome.quiz         com.awesome.quiz                     W  Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)
+2022-10-25 13:17:17.011 14175-14175 Compatibil...geReporter com.awesome.quiz                     D  Compat change id reported: 210923482; UID 10159; state: DISABLED
+2022-10-25 13:17:17.012 14175-14175 Compatibil...geReporter com.awesome.quiz                     D  Compat change id reported: 37756858; UID 10159; state: ENABLED
+2022-10-25 13:17:17.119 14175-14175 On Create Method        com.awesome.quiz                     D  fired up
+2022-10-25 13:17:17.146 14175-14175 On Start Method         com.awesome.quiz                     D  fired up
+2022-10-25 13:17:17.147 14175-14175 On Resume Method        com.awesome.quiz                     D  fired up
+2022-10-25 13:17:17.216 14175-14199 HostConnection          com.awesome.quiz                     D  createUnique: call
+2022-10-25 13:17:17.218 14175-14199 HostConnection          com.awesome.quiz                     D  HostConnection::get() New Host Connection established 0x70d00361c2d0, tid 14199
+2022-10-25 13:17:17.225 14175-14199 HostConnection          com.awesome.quiz                     D  HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_YUV_Cache ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_sync_buffer_data ANDROID_EMU_read_color_buffer_dma ANDROID_EMU_hwc_multi_configs GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0 
+2022-10-25 13:17:17.231 14175-14199 OpenGLRenderer          com.awesome.quiz                     W  Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+2022-10-25 13:17:17.233 14175-14199 OpenGLRenderer          com.awesome.quiz                     W  Failed to initialize 101010-2 format, error = EGL_SUCCESS
+2022-10-25 13:17:17.235 14175-14199 EGL_emulation           com.awesome.quiz                     D  eglCreateContext: 0x70d00361b490: maj 3 min 0 rcv 3
+2022-10-25 13:17:17.238 14175-14199 EGL_emulation           com.awesome.quiz                     D  eglMakeCurrent: 0x70d00361b490: ver 3 0 (tinfo 0x70d2305fc080) (first time)
+2022-10-25 13:17:17.265 14175-14199 Gralloc4                com.awesome.quiz                     I  mapper 4.x is not supported
+2022-10-25 13:17:17.267 14175-14199 HostConnection          com.awesome.quiz                     D  createUnique: call
+2022-10-25 13:17:17.267 14175-14199 HostConnection          com.awesome.quiz                     D  HostConnection::get() New Host Connection established 0x70d00361a1d0, tid 14199
+2022-10-25 13:17:17.268 14175-14199 goldfish-address-space  com.awesome.quiz                     D  allocate: Ask for block of size 0x100
+2022-10-25 13:17:17.269 14175-14199 goldfish-address-space  com.awesome.quiz                     D  allocate: ioctl allocate returned offset 0x3efffe000 size 0x2000
+2022-10-25 13:17:17.281 14175-14199 Gralloc4                com.awesome.quiz                     W  allocator 4.x is not supported
+2022-10-25 13:17:17.301 14175-14199 HostConnection          com.awesome.quiz                     D  HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_YUV_Cache ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_sync_buffer_data ANDROID_EMU_read_color_buffer_dma ANDROID_EMU_hwc_multi_configs GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0 
+2022-10-25 13:17:17.455 14175-14199 Parcel                  com.awesome.quiz                     W  Expecting binder but got null!
+2022-10-25 13:17:20.472 14175-14199 EGL_emulation           com.awesome.quiz                     D  app_time_stats: avg=327.86ms min=3.00ms max=2829.85ms count=9
+2022-10-25 13:17:23.821 14175-14175 On Pause Method         com.awesome.quiz                     D  fired up
+2022-10-25 13:17:23.822 14175-14199 EGL_emulation           com.awesome.quiz                     D  app_time_stats: avg=65.70ms min=2.05ms max=2631.94ms count=43
+2022-10-25 13:17:23.831 14175-14175 On Stop Method          com.awesome.quiz                     D  fired up
+2022-10-25 13:17:23.833 14175-14175 On SAVE STATE Method    com.awesome.quiz                     D  fired up
+2022-10-25 13:17:23.835 14175-14175 On Destroy Method       com.awesome.quiz                     D  fired up
+2022-10-25 13:17:23.954 14175-14175 On Create Method        com.awesome.quiz                     D  fired up
+2022-10-25 13:17:23.958 14175-14175 On Start Method         com.awesome.quiz                     D  fired up
+2022-10-25 13:17:23.959 14175-14175 On Resume Method        com.awesome.quiz                     D  fired up
+2022-10-25 13:17:24.034 14175-14199 Parcel                  com.awesome.quiz                     W  Expecting binder but got null!
+
+ <---
